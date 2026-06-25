@@ -11,7 +11,10 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "cypress": "^15.9.0",
     "cypress-plugin-api": "^2.11.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.5.0",
+    "cypress": "^15.17.0"
   }
 }
